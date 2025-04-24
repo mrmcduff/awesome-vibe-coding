@@ -6,11 +6,11 @@ A curated list of resources for vibe coding - an AI-dependent programming techni
 
 ## Contents
 
-- [Introduction](https://claude.ai/chat/57fcb9c2-5a8e-42fd-869e-ed4741d3d4b4#introduction)
-- [Example Videos](https://claude.ai/chat/57fcb9c2-5a8e-42fd-869e-ed4741d3d4b4#example-videos)
-- [Tools](https://claude.ai/chat/57fcb9c2-5a8e-42fd-869e-ed4741d3d4b4#tools)
-- [Advice Articles](https://claude.ai/chat/57fcb9c2-5a8e-42fd-869e-ed4741d3d4b4#advice-articles)
-- [Communities](https://claude.ai/chat/57fcb9c2-5a8e-42fd-869e-ed4741d3d4b4#communities)
+- [Introduction](#introduction)
+- [Example Videos](#example-videos)
+- [Tools](#tools)
+- [Advice Articles](#advice-articles)
+- [Communities](#communities)
 
 ## Introduction
 
@@ -83,8 +83,8 @@ Vibe coding is a term introduced by Andrej Karpathy in February 2025, describing
 
 ## Contributing
 
-Contributions welcome! Please read the [contribution guidelines](https://claude.ai/chat/CONTRIBUTING.md) first.
+Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License
 
-This awesome list is under the [Creative Commons CC0 License](https://claude.ai/chat/LICENSE).
+This awesome list is under the [Creative Commons CC0 License](LICENSE).
