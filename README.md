@@ -87,4 +87,4 @@ Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md
 
 ## License
 
-This awesome list is under the [Creative Commons CC0 License](LICENSE).
+This awesome list is under the [MIT License](LICENSE).
